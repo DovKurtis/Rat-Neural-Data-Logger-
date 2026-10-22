@@ -1,3 +1,4 @@
+![Neural data logger](photo.jpg)
 MSPM0G3507 and Intan RHD2132 
 4 neural channels at 20 kHz (50 µs period) and 3 auxiliary channels at 100 Hz, inserted every 200 neural samples 
 ●
