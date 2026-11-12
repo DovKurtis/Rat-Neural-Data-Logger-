@@ -1,14 +1,13 @@
+[Download the complete datasheet (PDF)](DS.pdf)
 
-
-![Datasheet page 1](1.png)
-![Datasheet page 2](2.png)
-![Datasheet page 3](3.png)
-![Datasheet page 4](4.png)
-![Datasheet page 5](5.png)
-![Datasheet page 6](6.png)
-![Datasheet page 7](7.png)
-![Datasheet page 8](8.png)
-
+![Datasheet page 1](images/1.png)
+![Datasheet page 2](images/2.png)
+![Datasheet page 3](images/3.png)
+![Datasheet page 4](images/4.png)
+![Datasheet page 5](images/5.png)
+![Datasheet page 6](images/6.png)
+![Datasheet page 7](images/7.png)
+![Datasheet page 8](images/8.png)
 
 
 <img width="1536" height="1024" alt="block diagram" src="https://github.com/user-attachments/assets/18e50d3a-f7b0-4d35-bf31-7371a1e462dd" />
